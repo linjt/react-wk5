@@ -1,0 +1,66 @@
+[
+    {
+        "title":"Name",
+        "slogan":"Slogan", 
+        "avatar":"images/avatar.png",
+        "images":[
+            {
+                "id":0,
+                "title":"Place 1",
+                "link":"images/img1.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":1,
+                "title":"Place 2",
+                "link":"images/img2.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":2,
+                "title":"Place 3",
+                "link":"images/img3.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":3,
+                "title":"Place 4",
+                "link":"images/img4.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":4,
+                "title":"Place 5",
+                "link":"images/img5.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":5,
+                "title":"Place 6",
+                "link":"images/img6.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":6,
+                "title":"Place 7",
+                "link":"images/img7.jpg",
+                "href":" ",
+                "alt":" "
+            },
+            {
+                "id":7,
+                "title":"Place 8",
+                "link":"images/img8.jpg",
+                "href":" ",
+                "alt":" "
+            }
+        ],
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium laborum corrupti ut iure aliquam. Quod, perferendis. Libero tempore iste, animi sint numquam illum quasi laboriosam unde pariatur quidem! Suscipit consequatur nihil dolor impedit temporibus ad cum, voluptatum odit ratione ullam eligendi amet beatae aliquid eaque nesciunt optio nobis ducimus itaque. Voluptatibus aspernatur assumenda quod quo error consequuntur, vero iusto reprehenderit repellat maiores, sapiente dolores voluptates minima. Alias dolore assumenda fuga quae repellat voluptatum quo, saepe exercitationem perspiciatis reiciendis modi tempora. Recusandae explicabo iusto corporis nam numquam dignissimos, necessitatibus, iure non culpa repellat repudiandae temporibus! Saepe excepturi tempore iusto eos sit!"
+    }
+]
