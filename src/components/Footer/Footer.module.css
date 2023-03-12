@@ -11,7 +11,7 @@
 
 .footerDescription {
     margin: 0;
-    padding: 1rem 0;
+    padding: 3vh 0;
     justify-content: center;
     text-align: center;
     align-self: center;
@@ -31,14 +31,14 @@
 
 @media screen and (min-width: 992px) {
     .footerAbove {
-        padding: 1rem 3rem;
+        padding: 6vh 5vw;
         line-height: 20rem;
     }
     
     .footerDescription {
         text-align:left;
-        font-size: 1.3rem;
-        line-height: 2.4rem;
+        font-size: 1.5rem;
+        line-height: 2.5rem;
     }
 
     .footerList {
