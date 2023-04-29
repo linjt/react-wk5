@@ -1,12 +1,12 @@
 import styles from "./ImageItem.module.css"
 
-function ImageItem({images}){
+function ImageItem({image}){
     return(
         <div className={styles.image}>
-            <a href={images.href} className={styles.imageLink}>
-                 <img src={images.link} alt={images.alt} className={styles.imageStyle}/>
+            <a href={image.href} className={styles.imageLink}>
+                 <img src={image.link} alt={image.alt} className={styles.imageStyle}/>
             </a>
-            <p className={styles.imageTitle}>{images.title}</p>
+            <p className={styles.imageTitle}>{image.title}</p>
         </div>
     )
 }

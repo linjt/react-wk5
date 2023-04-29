@@ -1,16 +1,23 @@
+import { useState } from 'react'
 import 'antd/dist/reset.css'
 import './App.css'
-import Home from './pages/Home'
-import content from "./json/content.json"
+import Home from './pages/Home';
+import { QueryClient, QueryClientProvider } from 'react-query';
+import { feedimgs } from './api';
+
+// feedimgs();
+
+const queryClient = new QueryClient()
 
 function App() {
+  // const [count, setCount] = useState(0)
   return (
-    <div className="App">
-      <Home
-        content={content[0]}
-      />
-    </div>  
+    <QueryClientProvider client={queryClient}>
+      <div className="App">
+        <Home/>
+      </div>
+    </QueryClientProvider>
   )
 }
 
-export default App;
+export default App
